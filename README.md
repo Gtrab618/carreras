@@ -1,1 +1,6 @@
-Creado con neatbeans compatible con jdk 11-17
+Proyecto de Instituto: Simulación de Carrera de Autos en Java
+
+Desarrollé un proyecto utilizando NetBeans y compatibilidad con JDK 11-17 para simular una emocionante carrera de tres autos. Cada auto se controla mediante hilos, lo que permite asignar velocidades aleatorias durante la carrera. Además, implementé un método especial que, en medio de la competencia, puede otorgar o no una ventaja al último carro en la pista.
+
+Si deseas contribuir y apoyar el desarrollo continuo, considera realizar una donación en Tron (TRC20) usdt a la dirección: TMNf9C61FAF5iqtbk9Jwz3YSprRTn5W7kF. 
+¡Agradezco de antemano tu interés y apoyo!
